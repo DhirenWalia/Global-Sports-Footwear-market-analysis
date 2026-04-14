@@ -4,6 +4,7 @@ A competition project by **Team TheD** — a full market analysis of the global 
 footwear industry using real sales data, business strategy frameworks, and 
 a presented executive report.
 
+<img width="1040" height="529" alt="image" src="https://github.com/user-attachments/assets/4d736053-9dcd-4882-ac7d-ddc995151743" />
 
 ---
 
