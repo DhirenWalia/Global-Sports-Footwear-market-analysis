@@ -4,6 +4,7 @@ A competition project by **Team TheD** — a full market analysis of the global 
 footwear industry using real sales data, business strategy frameworks, and 
 a presented executive report.
 
+
 ---
 
 **Presented by:** Dhiren Walia  
