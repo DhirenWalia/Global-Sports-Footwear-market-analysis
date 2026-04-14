@@ -4,12 +4,15 @@ A competition project by **Team TheD** — a full market analysis of the global 
 footwear industry using real sales data, business strategy frameworks, and 
 a presented executive report.
 
+---
+
 **Presented by:** Dhiren Walia  
 **Institution:** National Forensic Sciences University, New Delhi  
 **Course:** BBA-MBA Integrated (1st Year)  
 **Competition:** Market Analysis Challenge
 
 ---
+
 ## About
 
 This project was created for a business/data competition.
